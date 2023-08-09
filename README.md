@@ -1,3 +1,3 @@
 # ComicReader
-An Incompelete Comic Reader
+An Incompelete Comic Reader  
 Node.js Electron Vue Vite Unocss Pinia
